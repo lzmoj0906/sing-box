@@ -557,6 +557,7 @@ services:
 
 ## 10.鸣谢下列作者的文章和项目:
 千歌 sing-box 模板: https://github.com/chika0801/sing-box-examples  
+感谢零度大佬的带动
 
 
 ## 11.免责声明:
